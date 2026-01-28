@@ -4,7 +4,7 @@ print("oi")
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC select 1+1
+# MAGIC select 1+3
 
 # COMMAND ----------
 
